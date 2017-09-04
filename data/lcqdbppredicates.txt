@@ -1,0 +1,316 @@
+http://dbpedia.org/property/address -> address
+http://dbpedia.org/property/affiliation -> affiliation
+http://dbpedia.org/property/affiliations -> affiliations
+http://dbpedia.org/property/agencyName -> agency name
+http://dbpedia.org/property/album -> Album
+http://dbpedia.org/property/allegiance -> allegiance
+http://dbpedia.org/property/almaMater -> alma mater
+http://dbpedia.org/property/animator -> animator
+http://dbpedia.org/property/appointer -> appointer
+http://dbpedia.org/property/archipelago -> archipelago
+http://dbpedia.org/property/architect -> architect
+http://dbpedia.org/property/architecturalStyle -> architectural style
+http://dbpedia.org/property/architecture -> architecture
+http://dbpedia.org/property/area -> area
+http://dbpedia.org/property/arena -> arena
+http://dbpedia.org/property/artist -> Artist
+http://dbpedia.org/property/assembly -> assembly
+http://dbpedia.org/property/associatedActs -> associated acts
+http://dbpedia.org/property/athletics -> athletics
+http://dbpedia.org/property/author -> author
+http://dbpedia.org/property/awards -> awards
+http://dbpedia.org/property/battleHonours -> battle honours
+http://dbpedia.org/property/battles -> battles
+http://dbpedia.org/property/beatifiedBy -> beatified by
+http://dbpedia.org/property/billed -> billed
+http://dbpedia.org/property/binomialAuthority -> binomial authority
+http://dbpedia.org/property/birthDate -> birth date
+http://dbpedia.org/property/birthName -> birth name
+http://dbpedia.org/property/birthplace -> birthplace
+http://dbpedia.org/property/birthPlace -> birth place
+http://dbpedia.org/property/bodyDiscovered -> body discovered
+http://dbpedia.org/property/border -> border
+http://dbpedia.org/property/borough -> borough
+http://dbpedia.org/property/branch -> branch
+http://dbpedia.org/property/broadcastArea -> broadcast area
+http://dbpedia.org/property/builder -> builder
+http://dbpedia.org/property/buildingType -> building type
+http://dbpedia.org/property/canonizedBy -> canonized by
+http://dbpedia.org/property/capital -> Capital
+http://dbpedia.org/property/carries -> carries
+http://dbpedia.org/property/chairman -> chairman
+http://dbpedia.org/property/champion -> champion
+http://dbpedia.org/property/chancellor -> chancellor
+http://dbpedia.org/property/channel -> channel
+http://dbpedia.org/property/characterName -> character name
+http://dbpedia.org/property/characters -> characters
+http://dbpedia.org/property/children -> children
+http://dbpedia.org/property/cinematography -> cinematography
+http://dbpedia.org/property/cities -> cities
+http://dbpedia.org/property/citizenship -> citizenship
+http://dbpedia.org/property/city -> city
+http://dbpedia.org/property/cityServed -> city-served
+http://dbpedia.org/property/class -> class
+http://dbpedia.org/property/club -> club
+http://dbpedia.org/property/coach -> coach
+http://dbpedia.org/property/college -> college
+http://dbpedia.org/property/combatant -> combatant
+http://dbpedia.org/property/commander -> commander
+http://dbpedia.org/property/commandStructure -> command structure
+http://dbpedia.org/property/company -> company
+http://dbpedia.org/property/companyType -> company type
+http://dbpedia.org/property/composer -> Composer
+http://dbpedia.org/property/constituency -> constituency
+http://dbpedia.org/property/counties -> counties
+http://dbpedia.org/property/country -> country
+http://dbpedia.org/property/county -> county
+http://dbpedia.org/property/coverArtist -> cover artist
+http://dbpedia.org/property/creator -> creator
+http://dbpedia.org/property/creators -> creators
+http://dbpedia.org/property/crosses -> crosses
+http://dbpedia.org/property/currency -> currency
+http://dbpedia.org/property/currentclub -> currentclub
+http://dbpedia.org/property/currentMembers -> current members
+http://dbpedia.org/property/currentteam -> currentteam
+http://dbpedia.org/property/currentTeam -> current team
+http://dbpedia.org/property/deathCause -> death cause
+http://dbpedia.org/property/deathDate -> death date
+http://dbpedia.org/property/deathPlace -> death place
+http://dbpedia.org/property/debutteam -> debutteam
+http://dbpedia.org/property/denomination -> denomination
+http://dbpedia.org/property/deputy -> deputy
+http://dbpedia.org/property/design -> design
+http://dbpedia.org/property/designer -> designer
+http://dbpedia.org/property/destinations -> destinations
+http://dbpedia.org/property/developer -> developer
+http://dbpedia.org/property/director -> director
+http://dbpedia.org/property/discipline -> discipline
+http://dbpedia.org/property/discoverer -> discoverer
+http://dbpedia.org/property/distributor -> distributor
+http://dbpedia.org/property/district -> district
+http://dbpedia.org/property/divisions -> divisions
+http://dbpedia.org/property/doctoralAdvisor -> doctoral advisor
+http://dbpedia.org/property/doctoralStudents -> doctoral students
+http://dbpedia.org/property/domain -> domain
+http://dbpedia.org/property/draftTeam -> draft team
+http://dbpedia.org/property/editing -> editing
+http://dbpedia.org/property/editor -> editor
+http://dbpedia.org/property/education -> education
+http://dbpedia.org/property/employer -> employer
+http://dbpedia.org/property/engine -> engine
+http://dbpedia.org/property/ethnicity -> ethnicity
+http://dbpedia.org/property/executiveProducer -> executive producer
+http://dbpedia.org/property/family -> family
+http://dbpedia.org/property/field -> field
+http://dbpedia.org/property/fields -> fields
+http://dbpedia.org/property/firstAired -> first aired
+http://dbpedia.org/property/firstDriver -> First Driver
+http://dbpedia.org/property/firstTeam -> first team
+http://dbpedia.org/property/flagbearer -> flagbearer
+http://dbpedia.org/property/format -> format
+http://dbpedia.org/property/formercoach -> formercoach
+http://dbpedia.org/property/foundation -> foundation
+http://dbpedia.org/property/founded -> founded
+http://dbpedia.org/property/founder -> founder
+http://dbpedia.org/property/fromAlbum -> from Album
+http://dbpedia.org/property/garrison -> garrison
+http://dbpedia.org/property/gender -> gender
+http://dbpedia.org/property/genre -> genre
+http://dbpedia.org/property/governingBody -> governing body
+http://dbpedia.org/property/governmentType -> government type
+http://dbpedia.org/property/governor -> Governor
+http://dbpedia.org/property/grandsire -> grandsire
+http://dbpedia.org/property/ground -> ground
+http://dbpedia.org/property/guests -> Guests
+http://dbpedia.org/property/hairColor -> hair color
+http://dbpedia.org/property/headcoach -> headcoach
+http://dbpedia.org/property/headCoach -> head coach
+http://dbpedia.org/property/headquarters -> headquarters
+http://dbpedia.org/property/highschool -> highschool
+http://dbpedia.org/property/highSchool -> high school
+http://dbpedia.org/property/homeStadium -> Home Stadium
+http://dbpedia.org/property/hometown -> hometown
+http://dbpedia.org/property/homeTown -> home town
+http://dbpedia.org/property/honours -> honours
+http://dbpedia.org/property/hostCity -> Host city
+http://dbpedia.org/property/houses -> houses
+http://dbpedia.org/property/hubs -> hubs
+http://dbpedia.org/property/illustrator -> illustrator
+http://dbpedia.org/property/incumbent -> incumbent
+http://dbpedia.org/property/industry -> industry
+http://dbpedia.org/property/inflow -> inflow
+http://dbpedia.org/property/influencedBy -> influenced by
+http://dbpedia.org/property/influences -> influences
+http://dbpedia.org/property/institution -> institution
+http://dbpedia.org/property/instrument -> instrument
+http://dbpedia.org/property/instruments -> instruments
+http://dbpedia.org/property/international -> international
+http://dbpedia.org/property/judges -> judges
+http://dbpedia.org/property/junction -> junction
+http://dbpedia.org/property/jurisdiction -> jurisdiction
+http://dbpedia.org/property/keyPeople -> key people
+http://dbpedia.org/property/knownFor -> known for
+http://dbpedia.org/property/label -> label
+http://dbpedia.org/property/language -> language
+http://dbpedia.org/property/languages -> Languages
+http://dbpedia.org/property/largestCity -> largest city
+http://dbpedia.org/property/last -> last
+http://dbpedia.org/property/leader -> leader
+http://dbpedia.org/property/leaderName -> leader name
+http://dbpedia.org/property/leaderTitle -> leader title
+http://dbpedia.org/property/league -> league
+http://dbpedia.org/property/licensee -> licensee
+http://dbpedia.org/property/license -> license
+http://dbpedia.org/property/lieutenant -> lieutenant
+http://dbpedia.org/property/line -> line
+http://dbpedia.org/property/locationCity -> location city
+http://dbpedia.org/property/locationCountry -> location country
+http://dbpedia.org/property/location -> location
+http://dbpedia.org/property/locations -> locations
+http://dbpedia.org/property/locationTown -> location town
+http://dbpedia.org/property/lyrics -> lyrics
+http://dbpedia.org/property/magazine -> magazine
+http://dbpedia.org/property/mainIngredient -> main ingredient
+http://dbpedia.org/property/mainInterests -> main interests
+http://dbpedia.org/property/majorShrine -> major shrine
+http://dbpedia.org/property/managerclubs -> managerclubs
+http://dbpedia.org/property/manager -> manager
+http://dbpedia.org/property/manufacturer -> manufacturer
+http://dbpedia.org/property/mascot -> mascot
+http://dbpedia.org/property/material -> material
+http://dbpedia.org/property/mayor -> mayor
+http://dbpedia.org/property/meaning -> meaning
+http://dbpedia.org/property/membership -> membership
+http://dbpedia.org/property/mission -> mission
+http://dbpedia.org/property/monarch -> monarch
+http://dbpedia.org/property/mother -> mother
+http://dbpedia.org/property/motto -> Motto
+http://dbpedia.org/property/mouthCountry -> mouth country
+http://dbpedia.org/property/mouthLocation -> mouth location
+http://dbpedia.org/property/movement -> movement
+http://dbpedia.org/property/museum -> museum
+http://dbpedia.org/property/music -> music
+http://dbpedia.org/property/name -> name
+http://dbpedia.org/property/narrated -> narrated
+http://dbpedia.org/property/narrator -> narrator
+http://dbpedia.org/property/nationalAnthem -> national anthem
+http://dbpedia.org/property/nationality -> nationality
+http://dbpedia.org/property/nationalMotto -> national motto
+http://dbpedia.org/property/nationalOrigin -> national origin
+http://dbpedia.org/property/nationalteam -> nationalteam
+http://dbpedia.org/property/nativeName -> native name
+http://dbpedia.org/property/nearestCity -> nearest city
+http://dbpedia.org/property/neighboringMunicipalities -> neighboring municipalities
+http://dbpedia.org/property/network -> network
+http://dbpedia.org/property/nextAlbum -> Next album
+http://dbpedia.org/property/nickname -> Nickname
+http://dbpedia.org/property/notableCommanders -> notable commanders
+http://dbpedia.org/property/notableInstruments -> notable instruments
+http://dbpedia.org/property/notableworks -> notableworks
+http://dbpedia.org/property/occupation -> occupation
+http://dbpedia.org/property/office -> office
+http://dbpedia.org/property/officialName -> official name
+http://dbpedia.org/property/opentheme -> opentheme
+http://dbpedia.org/property/operatingSystem -> operating system
+http://dbpedia.org/property/operator -> operator
+http://dbpedia.org/property/opponent -> opponent
+http://dbpedia.org/property/order -> order
+http://dbpedia.org/property/origin -> origin
+http://dbpedia.org/property/os -> os
+http://dbpedia.org/property/other -> Other
+http://dbpedia.org/property/outflow -> outflow
+http://dbpedia.org/property/owned -> owned
+http://dbpedia.org/property/owner -> owner
+http://dbpedia.org/property/owners -> owners
+http://dbpedia.org/property/parentCompany -> parent company
+http://dbpedia.org/property/parent -> parent
+http://dbpedia.org/property/parliament -> parliament
+http://dbpedia.org/property/partner -> partner
+http://dbpedia.org/property/party -> party
+http://dbpedia.org/property/pastMembers -> past members
+http://dbpedia.org/property/pastteams -> pastteams
+http://dbpedia.org/property/phylum -> phylum
+http://dbpedia.org/property/placeOfBirth -> place of birth
+http://dbpedia.org/property/placeofburial -> placeofburial
+http://dbpedia.org/property/placeOfBurial -> place of burial
+http://dbpedia.org/property/placeOfDeath -> place of death
+http://dbpedia.org/property/place -> place
+http://dbpedia.org/property/playedFor -> played for
+http://dbpedia.org/property/poleDriver -> Pole driver
+http://dbpedia.org/property/portrayer -> portrayer
+http://dbpedia.org/property/position -> position
+http://dbpedia.org/property/predecessor -> predecessor
+http://dbpedia.org/property/presenter -> presenter
+http://dbpedia.org/property/president -> President
+http://dbpedia.org/property/primeminister -> primeminister
+http://dbpedia.org/property/prizes -> prizes
+http://dbpedia.org/property/producer -> producer
+http://dbpedia.org/property/products -> products
+http://dbpedia.org/property/programmingLanguage -> programming language
+http://dbpedia.org/property/prospectTeam -> prospect team
+http://dbpedia.org/property/province -> province
+http://dbpedia.org/property/publisher -> publisher
+http://dbpedia.org/property/purpose -> purpose
+http://dbpedia.org/property/race -> race
+http://dbpedia.org/property/rank -> rank
+http://dbpedia.org/property/recorded -> Recorded
+http://dbpedia.org/property/region -> region
+http://dbpedia.org/property/related -> related
+http://dbpedia.org/property/relatives -> relatives
+http://dbpedia.org/property/released -> released
+http://dbpedia.org/property/religion -> religion
+http://dbpedia.org/property/religiousAffiliation -> religious affiliation
+http://dbpedia.org/property/residence -> residence
+http://dbpedia.org/property/restingplace -> restingplace
+http://dbpedia.org/property/restingPlace -> resting place
+http://dbpedia.org/property/result -> result
+http://dbpedia.org/property/rival -> rival
+http://dbpedia.org/property/river -> river
+http://dbpedia.org/property/role -> role
+http://dbpedia.org/property/school -> school
+http://dbpedia.org/property/schooltype -> schooltype
+http://dbpedia.org/property/screenplay -> screenplay
+http://dbpedia.org/property/series -> series
+http://dbpedia.org/property/services -> services
+http://dbpedia.org/property/settlementType -> settlement type
+http://dbpedia.org/property/shipBuilder -> Ship builder
+http://dbpedia.org/property/showName -> show name
+http://dbpedia.org/property/sire -> sire
+http://dbpedia.org/property/sisterNames -> sister names
+http://dbpedia.org/property/sisterStations -> sister stations
+http://dbpedia.org/property/sourceCountry -> source country
+http://dbpedia.org/property/sourceLocation -> source location
+http://dbpedia.org/property/sourceRegion -> source region
+http://dbpedia.org/property/species -> species
+http://dbpedia.org/property/spouse -> spouse
+http://dbpedia.org/property/stadium -> stadium
+http://dbpedia.org/property/starring -> starring
+http://dbpedia.org/property/state -> state
+http://dbpedia.org/property/style -> style
+http://dbpedia.org/property/stylisticOrigins -> stylistic origins
+http://dbpedia.org/property/subject -> subject
+http://dbpedia.org/property/succeeded -> succeeded
+http://dbpedia.org/property/successor -> successor
+http://dbpedia.org/property/superintendent -> superintendent
+http://dbpedia.org/property/system -> system
+http://dbpedia.org/property/teamName -> Team Name 
+http://dbpedia.org/property/team -> Team
+http://dbpedia.org/property/tenants -> tenants
+http://dbpedia.org/property/themeMusicComposer -> theme music composer
+http://dbpedia.org/property/titles -> titles
+http://dbpedia.org/property/title -> title
+http://dbpedia.org/property/trainer -> trainer
+http://dbpedia.org/property/training -> training
+http://dbpedia.org/property/type -> type
+http://dbpedia.org/property/university -> university
+http://dbpedia.org/property/veneratedIn -> venerated in
+http://dbpedia.org/property/venue -> venue
+http://dbpedia.org/property/voices -> voices
+http://dbpedia.org/property/workInstitutions -> work institutions
+http://dbpedia.org/property/writers -> writers
+http://dbpedia.org/property/writer -> writer
+http://dbpedia.org/property/youthclubs -> youthclubs
+http://dbpedia.org/resource/AN/FSQ-7_Combat_Direction_Central -> AN/FSQ-7 Combat Direction Central
+http://dbpedia.org/resource/Boeing_F/A-18E/F_Super_Hornet -> Boeing F/A-18E/F Super Hornet
+http://dbpedia.org/resource/Martin_AN/FSG-1_Antiaircraft_Defense_System -> Martin AN/FSG-1 Antiaircraft Defense System
+http://dbpedia.org/resource/Martin_AN/GSG-5_Battery_Integration_and_Radar_Display_Equipment -> Martin AN/GSG-5 Battery Integration and Radar Display Equipment
