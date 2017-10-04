@@ -7,8 +7,7 @@ import itertools
 from neo4jrestclient.client import GraphDatabase,Path
 from multiprocessing import Pool
 from multiprocessing.dummy import Pool as ThreadPool
-
-pool = ThreadPool(20)
+from operator import itemgetter
 
 db = GraphDatabase("http://localhost:7474", username="neo4j", password=sys.argv[1])
 
@@ -47,19 +46,22 @@ def checkPath((path, sequence)):
         queryString += '()'
     if queryString[-2:] == ')-':
         queryString = queryString[:-1]
-    queryString = 'match p = '+queryString+' return count(p)'
+    queryString = 'match p = '+queryString+'  return length(p)'
     results = []
     try:
         results = db.query(queryString, returns=(str))
         if len(results) > 0:
-            if int(results[0][0]) > 0:
-                print "Query String ",queryString
-                print results[0][0]
-                return (queryString, int(results[0][0]), sequence, path)
+            minlength = 999
+            for r in results:
+                print int(r[0])
+                if int(r[0]) < minlength:
+                    minlength = int(r[0])
+            print minlength
+            return (minlength, sequence, path, queryString)
 
     except Exception,e:
         print e
-    return (queryString, 0, sequence, path)
+    return (0, sequence, path, queryString)
 
 def noEntityInPath(cartesianProductItem):
     for item in cartesianProductItem:
@@ -70,6 +72,7 @@ def noEntityInPath(cartesianProductItem):
 
 @app.route('/findPaths', methods=['POST'])
 def findPaths():
+    pool = ThreadPool(20)
     d = request.get_json(silent=True)
     lists = []
     for k,v in d.iteritems():
@@ -92,15 +95,14 @@ def findPaths():
     response = []
     for record in results:
         item = {}
-        if record[1] > 0:
-            item['neo4jQuery'] = record[0]
-            item['pathsCount'] = record[1]
-            item['permuteSequence'] = list(record[2])
-            item['urisMatched'] = list(record[3])
+        if record[0] > 0:
+            item['neo4jQuery'] = record[3]
+            item['pathLength'] = record[0]
+            item['permuteSequence'] = list(record[1])
+            item['urisMatched'] = list(record[2])
             response.append(item)
-    return json.dumps(response)
-
-
+    newresponse = sorted(response, key=itemgetter('pathLength'))
+    return json.dumps(newresponse)
 
 
 if __name__ == '__main__':
